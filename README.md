@@ -24,13 +24,13 @@ Run program and Simulator
 
 ```bash
 $ python run.py Assignment_1.py
-![Screenshot from 2021-11-13 13-58-30](https://user-images.githubusercontent.com/43494474/142588287-928ec92e-43a2-42fb-a889-2a978788a4d9.png)
 ```
-
 Run Illustration 
 =============================
 When run properly it should work like below 
-#images in  
+
+![Screenshot from 2021-11-13 13-58-30](https://user-images.githubusercontent.com/43494474/142588486-c7df6fce-56d9-4579-8a0f-c9dd708f504d.png)
+
 
 Python Robotics Simulator
 ================================
