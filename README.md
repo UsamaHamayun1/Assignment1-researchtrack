@@ -19,6 +19,13 @@ Pseudocode
 
     Move Forward ( search for Silver token)
 
+Run program and Simulator
+================================
+
+```bash
+$ python run.py Assignment_1.py
+```
+
 Python Robotics Simulator
 ================================
 
